@@ -1,1 +1,1 @@
-web: gunicorn EarthSong_Botanicals_website:app
+web: gunicorn earthsong_botanicals_website:app
