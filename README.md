@@ -1,6 +1,6 @@
 # EarthSong Botanicals Website
 
-A soulful, nature-inspired website for Suzanne Boshoff's holistic healing business combining sound healing, herbal medicine, and sustainable living.
+A soulful, nature-inspired website for Suzanne's holistic healing business combining sound healing, herbal medicine, and sustainable living.
 
 ## Run locally
 ```
